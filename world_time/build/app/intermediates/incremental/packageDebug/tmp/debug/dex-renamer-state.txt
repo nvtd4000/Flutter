@@ -1,0 +1,4 @@
+#Wed Mar 11 23:29:05 CDT 2020
+base.0=/Users/nvtd4000/GitHub/Flutter/world_time/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
